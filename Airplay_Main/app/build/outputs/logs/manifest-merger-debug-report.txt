@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\3b15827da9f9643d61b96a28e1799d17\AndroidManifest.xml:15:1-18:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:3:5-21
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\3b15827da9f9643d61b96a28e1799d17\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\3b15827da9f9643d61b96a28e1799d17\AndroidManifest.xml:16:5-42
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:12:5-86
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:12:22-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:15:5-26:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\3b15827da9f9643d61b96a28e1799d17\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\3b15827da9f9643d61b96a28e1799d17\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:16:9-35
+activity#com.beatofthedrum.alacdecoder.airplay.ui.AirplayActivity
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:20:19-90
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\code\learn\Airplay_Main\app\src\main\AndroidManifest.xml:23:27-74
